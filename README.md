@@ -1,6 +1,6 @@
 # CS231N: Deep Learning for Computer Vision
 
-Assignments to Stanford's CS231N are completed in TensorFlow. 
+My solutions to Stanford's CS231N in 2018, completed in TensorFlow. 
 
 ### Assignment 1:
 - [Q1](https://github.com/rgivhan/CS231n/blob/master/a1/knn.ipynb): k-Nearest Neighbor classifier. (_Done_)
